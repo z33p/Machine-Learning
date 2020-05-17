@@ -4,6 +4,7 @@
   "main": "index.js",
   "repository": "https://github.com/z33p/Machine-Learning",
   "author": "z33p <raphael00fellipe@gmail.com>",
+  "contributors": ["Artur-Cavalcante <arturcavalcante2014.p@hotmail.com>"],
   "license": "MIT",
   "husky": {
     "hooks": {
